@@ -1,0 +1,1 @@
+print("hello friend this is the second code")
